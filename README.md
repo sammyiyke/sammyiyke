@@ -2,28 +2,53 @@
 
 # Sammy Ibeh -- ✨
 
-Hi, 👋I’m Samson, a software developer who believes in changing the world. I’m an open source advocate, primarily maintaining [Sugar Desktop](https://github.com/sugarlabs) while also serving on the board of directors with [Sugar Labs](http://sugarlabs.org/), and sustaining  [Open Source Collective](https://www.oscollective.org/) as a board member. I also co-founded  [Open Source Community Africa](https://www.oscafrica.org), a movement that promotes and educates everything open source within Africa 🌍. I’m currently consulting with the African Union, International Telecommunication Union, and UN Women to bring more women into technology. 🚀
+Hi, 👋I’m Sam, a software developer (Python - mostly Fullstack) who believes in changing the world. I co-founded  [ITSYNC Synergy Limited](https://www.itsync.ng), a business management solution and software provider 🌍. I’m currently consulting with the [Zenith Bank Nigeria](https://www.zenithbank.com/), [SHELL Nigeria @ CoopEAST](https://www.coopeastngr.com/index.asp) and UN Women to bring more women into technology. 🚀
 
 ## 🔭 I’m currently working on ...
+
+- Projects for [ITSYNC Synergy Limited](https://www.itsync.ng)
+
+## 🔭 Skills and Languages ...
+
+- Python
+- TypeScript - NodeJS
+- GIT
+- CI and Automated testing
+- JavaScript
+- Web Languages - (HTML, CSS)
+- PHP - Not so much of this anymore
 
 
 ## 🌱 I’m currently learning ...
 
+- Product Management
+- Russian and German :)
+- Any other fun programming language
+
 
 ## 👯 I’m looking to collaborate on ...
+- Fun projects
+- Projects related to inclusion for disabled and/or the enviroment
 
 
 ## 🤔 I’m looking for help with ...
 
+
 ## 🌱 Projects: 
 
 
-- Scalable onboarding with the [Gnome project](https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding) (Trying to make OSS great for newbies)
-- The [Sugar Desktop project](https://github.com/sugarlabs) got in into OSS, been giving back since 2011. 
-- Expanding [OSCA](https://github.com/oscafrica) to bring the Next Billion Creators and making the project sustainable. See the concluded [Open Source Festival 2020](https://blog.oscafrica.org/the-chronicles-of-open-source-festival-2020-ck84qc32s04zmzns18q5x8fjp) event in Lagos.
+- Contact me for more details - most project cannot be publicly shared.
+
+- See portfolio on [ITSYNC Synergy Limited](https://www.itsync.ng)
+
+- Syle By Zenith - [Zenith Bank Nigeria](https://www.zenithbank.com/) - currently offline
+
+- [My Aspire Hub](https://myaspirehub.com/) - For Zenith Bank PLC 
 
 
 ## 💬 Ask me about ...
+
+- Absolutely anything
 
 
 ## 📫 How to reach me: ...
@@ -32,10 +57,9 @@ Hi, 👋I’m Samson, a software developer who believes in changing the world. I
 
 - You play Call of Duty ?? add me: samsonG
 
-## 😄 Pronouns: ...
-
 
 ## ⚡ Fun fact: ...
+- I know American Sign Language (ASL)
 
 
 
