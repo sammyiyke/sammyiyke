@@ -2,7 +2,7 @@
 
 # Sammy Ibeh -- ✨
 
-Hi, 👋I’m Sam, a software developer (Python - mostly Fullstack) who believes in changing the world. I co-founded  [ITSYNC Synergy Limited](https://www.itsync.ng), a business management solution and software provider 🌍. I’m currently consulting with the [Zenith Bank Nigeria](https://www.zenithbank.com/), [SHELL Nigeria @ CoopEAST](https://www.coopeastngr.com/index.asp) and UN Women to bring more women into technology. 🚀
+Hi, 👋  <br /> I’m Sam, a software developer (Python - mostly Fullstack) who believes in changing the world. I co-founded  [ITSYNC Synergy Limited](https://www.itsync.ng), a business management solution and software provider 🌍. I’m currently consulting with the [Zenith Bank Nigeria](https://www.zenithbank.com/), [SHELL Nigeria @ CoopEAST](https://www.coopeastngr.com/index.asp) and UN Women to bring more women into technology. 🚀
 
 ## 🔭 I’m currently working on ...
 
@@ -28,7 +28,7 @@ Hi, 👋I’m Sam, a software developer (Python - mostly Fullstack) who believes
 
 ## 👯 I’m looking to collaborate on ...
 - Fun projects
-- Projects related to inclusion for disabled and/or the enviroment
+- Projects related to inclusion for with people with special needs and/or the enviroment
 
 
 ## 🤔 I’m looking for help with ...
