@@ -37,7 +37,7 @@ Hi, 👋  <br /> I’m Sam, a software developer (Python - mostly Fullstack) who
 ## 🌱 Projects: 
 
 
-- Contact me for more details - most project cannot be publicly shared.
+- Contact me for more details - most projects cannot be shared publicly.
 
 - See portfolio on [ITSYNC Synergy Limited](https://www.itsync.ng)
 
