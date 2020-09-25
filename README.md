@@ -55,7 +55,7 @@ Hi, 👋  <br /> I’m Sam, a software developer (Python - mostly Fullstack) who
 - Twitter: https://twitter.com/sammy_iyke001
 - Personal Website: https://sammyibeh.com (in progress)🚜🔩⛏⚒
 
-- You play Call of Duty ?? add me: samsonG
+- You play Call of Duty ?? add me: sammyiyke
 
 
 ## ⚡ Fun fact: ...
